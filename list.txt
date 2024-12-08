@@ -1,0 +1,7 @@
+file '/mnt/c/Users/Alex/Documents/lisa/music/M_000000.mp3'
+file '/mnt/c/Users/Alex/Documents/lisa/music/M_000001.mp3'
+file '/mnt/c/Users/Alex/Documents/lisa/music/M_000002.mp3'
+file '/mnt/c/Users/Alex/Documents/lisa/music/M_000003.mp3'
+file '/mnt/c/Users/Alex/Documents/lisa/music/M_000004.mp3'
+file '/mnt/c/Users/Alex/Documents/lisa/music/M_000005.mp3'
+file '/mnt/c/Users/Alex/Documents/lisa/music/M_000006.mp3'
